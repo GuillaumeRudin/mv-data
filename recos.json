@@ -26,6 +26,15 @@
 					"tag": [
 						"Animation (Adulte)"
 					]
+				},
+				{
+					"image": "images/ww.jpeg",
+					"card-title": "West World",
+					"card-description": "Westworld est un parc d'attractions futuriste recréant l'univers de l'Ouest américain du xixe siècle. Il est peuplé d'androïdes, appelés « hôtes », réinitialisés à la fin de chaque boucle narrative. Les visiteurs, appelés « invités », peuvent y faire ce qu'ils veulent sans aucune conséquence. Mais à la suite d'une mise à jour du programme des androïdes, les dirigeants du parc devront faire face à plusieurs bugs dans leur comportement.",
+					"tag": [
+						"Science-Fiction",
+						"Western"
+					]
 				}
 			]
 		}
