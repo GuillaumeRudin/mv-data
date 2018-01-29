@@ -1,0 +1,21 @@
+{
+	"category": [
+		{
+			"cat-title": "SÉRIES",
+			"card": [
+				{
+					"image": "images/maxresdefault.jpg",
+					"card-title": "Stranger Things",
+					"card-description": "Inspirée par les films               fantastiques et de science-fiction des années 1980,             piochant ses influences dans les œuvres de Steven               Spielberg, John Carpenter, John Hughes ou encore Stephen       King.\n\n                        ",
+					"tag": [
+						"Science-Fiction"
+					]
+				},
+				{
+					"card-title": "fff",
+					"tag": []
+				}
+			]
+		}
+	]
+}
