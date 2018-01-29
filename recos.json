@@ -12,8 +12,20 @@
 					]
 				},
 				{
-					"card-title": "fff",
-					"tag": []
+					"card-title": "Rick and Morty",
+					"tag": [
+						"Animation (Adulte)"
+					],
+					"image": "images/retm.jpg",
+					"card-description": "Série d'animation pour adultes, provient d'une courte parodie animée reposant sur la trilogie de films \"Retour vers le futur\"."
+				},
+				{
+					"image": "images/bojack.jpg",
+					"card-title": "BoJack Horseman",
+					"card-description": "Série d'animation pour adultes. La série prend place dans un monde où les humains et les animaux anthropomorphiques vivent côte à côte dans l'univers du Cinéma dans la région d'Hollywood.",
+					"tag": [
+						"Animation (Adulte)"
+					]
 				}
 			]
 		}
